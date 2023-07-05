@@ -1,1 +1,1 @@
- pwd prints the absolute path name of the current working directory.
+D:\ALX Software Engineering\alxTasks\alx-system_engineering-devops\0x00-shell_basics
