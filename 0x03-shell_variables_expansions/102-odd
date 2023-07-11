@@ -1,0 +1,2 @@
+#!/bin/bash
+[aste -d, - - | cut -d, -f1
