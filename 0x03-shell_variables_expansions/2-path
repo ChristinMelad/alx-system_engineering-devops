@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir /path/action | tail -n 1
+mkdir action  /path/ | tail -n 1
